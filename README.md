@@ -45,11 +45,6 @@ Passionate about turning ideas into real-world tech solutions. I dive into web a
 
 ---
 
-## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=dracula)  
-
----
-
 ## 🎭 Random Dev Quote  
 > *"Programs must be written for people to read, and only incidentally for machines to execute."*  
 — *Harold Abelson*  
