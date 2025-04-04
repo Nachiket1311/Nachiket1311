@@ -2,8 +2,7 @@
 
 Passionate about turning ideas into real-world tech solutions. I dive into web and mobile application development, crafting seamless user experiences with tools like React, Node.js, Firebase. Whether it's optimizing backend systems or creating engaging front-end designs, I'm always ready to solve problems and build something impactful.  
 
-### 🚀 Currently Working On:  
-- SaaS platforms for business automation.  
+### 🚀 Currently Working On:   
 - Data visualization using Tableau.  
 
 ### 📚 Currently Learning:  
@@ -14,7 +13,6 @@ Passionate about turning ideas into real-world tech solutions. I dive into web a
 ### 💡 Ask Me About:  
 - Full-stack development  
 - Mobile app creation  
-- Scaling SaaS platforms  
 
 ---
 
