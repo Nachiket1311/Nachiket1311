@@ -46,16 +46,7 @@ Beyond BI, I have experience in full-stack development using React, Node.js, and
 <td width="50%" valign="top">
 
 ### 📂 Featured Projects
-
-| 📁 Repository | 📚 Subject Covers | 💻 Tech Stack |
-|:---|:---|:---|
-| **Capstone-Project** | Biometrics (Face Recognition Attendance System) | `Python` `OpenCV` `YOLOv8` `FaceNet` `FAISS` `TensorFlow` |
-| **financial-sentiment-analysis-lstm** | Natural Language Processing (Financial Sentiment Analysis) | `Python` `TensorFlow` `Keras` `LSTM` `Pandas` |
-| **Liveness-Detection-App** | Biometrics (Face Liveness Detection) | `Kotlin` `Android SDK` `CameraX` `TensorFlow Lite` |
-| **WeatherApp** | Mobile Application Development | `Java` `Android Studio` `REST API` `JSON` |
-| **minedetectorwithAstar** | Artificial Intelligence (A* Pathfinding) | `Java` `A* Algorithm` `OOP` |
-| **AlarmClockSystem-MM** | Microcontroller & Microprocessor | `C++` `Embedded Systems` |
-
+<img src="projects.svg" alt="Nachiket palekar projects">
 </td>
 </tr>
 </table>

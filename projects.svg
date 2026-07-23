@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="520"
+     viewBox="0 0 900 520">
+
+<defs>
+
+<style><![CDATA[
+
+text{
+font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;
+}
+
+.title{
+fill:#38bdf8;
+font-size:28px;
+font-weight:bold;
+}
+
+.repo{
+fill:#e6edf3;
+font-size:18px;
+font-weight:bold;
+}
+
+.subject{
+fill:#9ca3af;
+font-size:13px;
+}
+
+.card{
+fill:#161b22;
+stroke:#3b82f6;
+stroke-width:2;
+rx:14;
+}
+
+.tag{
+fill:#21262d;
+stroke:#30363d;
+stroke-width:1;
+rx:8;
+}
+
+.tagText{
+fill:#38bdf8;
+font-size:11px;
+font-weight:bold;
+}
+
+]]></style>
+
+</defs>
+
+<!-- Background -->
+
+
+
+
+<!-- ================= Row 1 ================= -->
+
+<!-- Card 1 -->
+
+<rect class="card" x="30" y="70" width="260" height="130"/>
+
+<text class="repo" x="45" y="98"> Capstone</text>
+<text class="subject" x="45" y="120">Biometrics</text>
+<text class="subject" x="45" y="140">Face Recognition Attendance</text>
+
+<rect class="tag" x="45" y="160" width="58" height="22"/>
+<text class="tagText" x="58" y="175">Python</text>
+
+<rect class="tag" x="110" y="160" width="60" height="22"/>
+<text class="tagText" x="123" y="175">YOLOv8</text>
+
+<rect class="tag" x="177" y="160" width="58" height="22"/>
+<text class="tagText" x="190" y="175">OpenCV</text>
+
+<!-- Card 2 -->
+
+<rect class="card" x="320" y="70" width="260" height="130"/>
+
+<text class="repo" x="335" y="98"> Financial NLP</text>
+<text class="subject" x="335" y="120">Natural Language Processing</text>
+<text class="subject" x="335" y="140">Financial Sentiment Analysis</text>
+
+<rect class="tag" x="335" y="160" width="58" height="22"/>
+<text class="tagText" x="348" y="175">Python</text>
+
+<rect class="tag" x="400" y="160" width="74" height="22"/>
+<text class="tagText" x="410" y="175">LSTM</text>
+
+<rect class="tag" x="482" y="160" width="72" height="22"/>
+<text class="tagText" x="492" y="175">Keras</text>
+
+<!-- Card 3 -->
+
+<rect class="card" x="610" y="70" width="260" height="130"/>
+
+<text class="repo" x="625" y="98"> Liveness App</text>
+<text class="subject" x="625" y="120">Biometrics</text>
+<text class="subject" x="625" y="140">Face Liveness Detection</text>
+
+<rect class="tag" x="625" y="160" width="60" height="22"/>
+<text class="tagText" x="638" y="175">Kotlin</text>
+
+<rect class="tag" x="692" y="160" width="74" height="22"/>
+<text class="tagText" x="702" y="175">CameraX</text>
+
+<!-- ================= Row 2 ================= -->
+
+<!-- Card 4 -->
+
+<rect class="card" x="30" y="235" width="260" height="130"/>
+
+<text class="repo" x="45" y="263"> Weather App</text>
+<text class="subject" x="45" y="285">Mobile Application</text>
+<text class="subject" x="45" y="305">Weather Forecast</text>
+
+<rect class="tag" x="45" y="325" width="46" height="22"/>
+<text class="tagText" x="59" y="340">Java</text>
+
+<rect class="tag" x="98" y="325" width="68" height="22"/>
+<text class="tagText" x="108" y="340">REST API</text>
+
+<!-- Card 5 -->
+
+<rect class="card" x="320" y="235" width="260" height="130"/>
+
+<text class="repo" x="335" y="263"> Mine Detector</text>
+<text class="subject" x="335" y="285">Artificial Intelligence</text>
+<text class="subject" x="335" y="305">A* Pathfinding</text>
+
+<rect class="tag" x="335" y="325" width="46" height="22"/>
+<text class="tagText" x="349" y="340">Java</text>
+
+<rect class="tag" x="388" y="325" width="36" height="22"/>
+<text class="tagText" x="398" y="340">A*</text>
+
+<!-- Card 6 -->
+
+<rect class="card" x="610" y="235" width="260" height="130"/>
+
+<text class="repo" x="625" y="263"> Alarm Clock</text>
+<text class="subject" x="625" y="285">Microcontroller</text>
+<text class="subject" x="625" y="305">&amp; Microprocessor</text>
+
+<rect class="tag" x="625" y="325" width="42" height="22"/>
+<text class="tagText" x="638" y="340">C++</text>
+
+<rect class="tag" x="674" y="325" width="88" height="22"/>
+<text class="tagText" x="684" y="340">Embedded</text>
+
+</svg>
