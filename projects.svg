@@ -61,7 +61,7 @@ font-weight:bold;
 
 <!-- Card 1 -->
 
-<rect class="card" x="30" y="70" width="260" height="130"/>
+<rect class="card" x="30" y="70" width="390" height="130"/>
 
 <text class="repo" x="45" y="98"> Capstone</text>
 <text class="subject" x="45" y="120">Biometrics</text>
@@ -73,82 +73,106 @@ font-weight:bold;
 <rect class="tag" x="110" y="160" width="60" height="22"/>
 <text class="tagText" x="123" y="175">YOLOv8</text>
 
-<rect class="tag" x="177" y="160" width="58" height="22"/>
+<rect class="tag" x="177" y="160" width="60" height="22"/>
 <text class="tagText" x="190" y="175">OpenCV</text>
+
+<rect class="tag" x="245" y="160" width="60" height="22"/>
+<text class="tagText" x="258" y="175">FAISS</text>
+
 
 <!-- Card 2 -->
 
-<rect class="card" x="320" y="70" width="260" height="130"/>
+<rect class="card" x="450" y="70" width="390" height="130"/>
 
-<text class="repo" x="335" y="98"> Financial NLP</text>
-<text class="subject" x="335" y="120">Natural Language Processing</text>
-<text class="subject" x="335" y="140">Financial Sentiment Analysis</text>
+<text class="repo" x="465" y="98"> Financial NLP</text>
+<text class="subject" x="465" y="120">Natural Language Processing</text>
+<text class="subject" x="465" y="140">Financial Sentiment Analysis</text>
 
-<rect class="tag" x="335" y="160" width="58" height="22"/>
-<text class="tagText" x="348" y="175">Python</text>
+<rect class="tag" x="465" y="160" width="58" height="22"/>
+<text class="tagText" x="478" y="175">Python</text>
 
-<rect class="tag" x="400" y="160" width="74" height="22"/>
-<text class="tagText" x="410" y="175">LSTM</text>
+<rect class="tag" x="530" y="160" width="60" height="22"/>
+<text class="tagText" x="544" y="175">LSTM</text>
 
-<rect class="tag" x="482" y="160" width="72" height="22"/>
-<text class="tagText" x="492" y="175">Keras</text>
+<rect class="tag" x="598" y="160" width="60" height="22"/>
+<text class="tagText" x="612" y="175">Keras</text>
 
-<!-- Card 3 -->
+<rect class="tag" x="666" y="160" width="70" height="22"/>
+<text class="tagText" x="676" y="175">Pandas</text>
 
-<rect class="card" x="610" y="70" width="260" height="130"/>
-
-<text class="repo" x="625" y="98"> Liveness App</text>
-<text class="subject" x="625" y="120">Biometrics</text>
-<text class="subject" x="625" y="140">Face Liveness Detection</text>
-
-<rect class="tag" x="625" y="160" width="60" height="22"/>
-<text class="tagText" x="638" y="175">Kotlin</text>
-
-<rect class="tag" x="692" y="160" width="74" height="22"/>
-<text class="tagText" x="702" y="175">CameraX</text>
 
 <!-- ================= Row 2 ================= -->
 
+<!-- Card 3 -->
+
+<rect class="card" x="30" y="230" width="390" height="130"/>
+
+<text class="repo" x="45" y="258"> Liveness App</text>
+<text class="subject" x="45" y="280">Biometrics</text>
+<text class="subject" x="45" y="300">Face Liveness Detection</text>
+
+<rect class="tag" x="45" y="320" width="60" height="22"/>
+<text class="tagText" x="58" y="335">Kotlin</text>
+
+<rect class="tag" x="112" y="320" width="74" height="22"/>
+<text class="tagText" x="122" y="335">CameraX</text>
+
+<rect class="tag" x="194" y="320" width="92" height="22"/>
+<text class="tagText" x="204" y="335">TensorFlow</text>
+
+
 <!-- Card 4 -->
 
-<rect class="card" x="30" y="235" width="260" height="130"/>
+<rect class="card" x="450" y="230" width="390" height="130"/>
 
-<text class="repo" x="45" y="263"> Weather App</text>
-<text class="subject" x="45" y="285">Mobile Application</text>
-<text class="subject" x="45" y="305">Weather Forecast</text>
+<text class="repo" x="465" y="258"> Weather App</text>
+<text class="subject" x="465" y="280">Mobile Application Development</text>
+<text class="subject" x="465" y="300">Weather Forecasting</text>
 
-<rect class="tag" x="45" y="325" width="46" height="22"/>
-<text class="tagText" x="59" y="340">Java</text>
+<rect class="tag" x="465" y="320" width="46" height="22"/>
+<text class="tagText" x="479" y="335">Java</text>
 
-<rect class="tag" x="98" y="325" width="68" height="22"/>
-<text class="tagText" x="108" y="340">REST API</text>
+<rect class="tag" x="518" y="320" width="72" height="22"/>
+<text class="tagText" x="528" y="335">REST API</text>
+
+<rect class="tag" x="598" y="320" width="52" height="22"/>
+<text class="tagText" x="610" y="335">JSON</text>
+
+
+<!-- ================= Row 3 ================= -->
 
 <!-- Card 5 -->
 
-<rect class="card" x="320" y="235" width="260" height="130"/>
+<rect class="card" x="30" y="390" width="390" height="130"/>
 
-<text class="repo" x="335" y="263"> Mine Detector</text>
-<text class="subject" x="335" y="285">Artificial Intelligence</text>
-<text class="subject" x="335" y="305">A* Pathfinding</text>
+<text class="repo" x="45" y="418"> Mine Detector</text>
+<text class="subject" x="45" y="440">Artificial Intelligence</text>
+<text class="subject" x="45" y="460">A* Pathfinding Algorithm</text>
 
-<rect class="tag" x="335" y="325" width="46" height="22"/>
-<text class="tagText" x="349" y="340">Java</text>
+<rect class="tag" x="45" y="480" width="46" height="22"/>
+<text class="tagText" x="59" y="495">Java</text>
 
-<rect class="tag" x="388" y="325" width="36" height="22"/>
-<text class="tagText" x="398" y="340">A*</text>
+<rect class="tag" x="98" y="480" width="38" height="22"/>
+<text class="tagText" x="108" y="495">A*</text>
+
+<rect class="tag" x="144" y="480" width="46" height="22"/>
+<text class="tagText" x="156" y="495">OOP</text>
+
 
 <!-- Card 6 -->
 
-<rect class="card" x="610" y="235" width="260" height="130"/>
+<rect class="card" x="450" y="390" width="390" height="130"/>
 
-<text class="repo" x="625" y="263"> Alarm Clock</text>
-<text class="subject" x="625" y="285">Microcontroller</text>
-<text class="subject" x="625" y="305">&amp; Microprocessor</text>
+<text class="repo" x="465" y="418"> Alarm Clock</text>
+<text class="subject" x="465" y="440">Microcontroller &amp; Microprocessor</text>
+<text class="subject" x="465" y="460">Embedded System Project</text>
 
-<rect class="tag" x="625" y="325" width="42" height="22"/>
-<text class="tagText" x="638" y="340">C++</text>
+<rect class="tag" x="465" y="480" width="42" height="22"/>
+<text class="tagText" x="478" y="495">C++</text>
 
-<rect class="tag" x="674" y="325" width="88" height="22"/>
-<text class="tagText" x="684" y="340">Embedded</text>
+<rect class="tag" x="514" y="480" width="82" height="22"/>
+<text class="tagText" x="524" y="495">Embedded</text>
 
+<rect class="tag" x="604" y="480" width="52" height="22"/>
+<text class="tagText" x="614" y="495">STL</text>
 </svg>
