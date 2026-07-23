@@ -46,7 +46,7 @@ Beyond BI, I have experience in full-stack development using React, Node.js, and
 <td width="50%" valign="top">
 
 ### 📂 Featured Projects
-<img src="projects.svg" alt="Nachiket palekar projects">
+<img src="projects.svg" alt="Nachiket palekar projects" height="100%">
 </td>
 </tr>
 </table>
