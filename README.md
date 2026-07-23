@@ -1,49 +1,100 @@
-# 👋 Hey there! I'm Nachiket Palekar  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
+  <img alt="Nachiket Palekar Banner" src="banner.svg" width="100%">
+</picture>
 
-Passionate about turning ideas into real-world tech solutions. I dive into web and mobile application development, crafting seamless user experiences with tools like React, Node.js, Firebase. Whether it's optimizing backend systems or creating engaging front-end designs, I'm always ready to solve problems and build something impactful.  
+<br/><br/>
 
-### 🚀 Currently Working On:   
-- Data visualization using Tableau.  
+<table align="center" border="0" width="100%">
+<tr>
+<td width="70%" valign="top">
 
-### 📚 Currently Learning:  
-- Advanced Data Visualization Tools  
-- SEO Management  
-- Game Development  
+# 👋 Hey there! I'm Nachiket Palekar
 
-### 💡 Ask Me About:  
-- Full-stack development  
-- Mobile app creation  
+<!-- A sleek typing animation for your header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Data+Visualization+Enthusiast;Building+Seamless+User+Experiences" alt="Typing SVG" /></a>
 
----
+<br/>
+I love turning complex data into simple, meaningful experiences. As an MBA Tech student with a passion for Business Intelligence, I build interactive dashboards, custom data visualizations, and data-driven applications that help people make smarter decisions. From crafting advanced Power BI visuals  to developing scalable solutions in IBM Cognos Analytics, I enjoy combining creativity with analytics.
 
-## 🌍 Connect with Me:  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nachiket_palekar/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nachiket-palekar-mbatech)  
+<br>
+Beyond BI, I have experience in full-stack development using React, Node.js, and Firebase, allowing me to transform ideas into complete digital products. I'm constantly exploring new technologies, improving my problem-solving skills, and building solutions that create real business impact—one project at a time.
 
----
 
-## 🛠️ Tech Stack:  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%23004F99.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
+</td>
+<td width="30%" align="center" valign="top">
+  <img src="lanyard.svg" alt="Nachiket swinging ID badge" width="230" />
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 📊 GitHub Stats:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nachiket1311&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)  
+<table align="center" border="0" width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+### 🚀 What I'm Up To
+- **Working On:** Building interactive **IBM Cognos Analytics** & **Power BI** dashboards with advanced KPIs and custom visuals.
+- **Developing:** Full-stack web applications using **React**, **Node.js**, and **Firebase**.
+- **Exploring:** AI-powered analytics, custom BI visualizations, and data storytelling.
+- **Learning:** Business Intelligence, Data Engineering concepts, and modern UI/UX for analytics dashboards.
+- **Ask Me About:** Business Analytics, Power BI, IBM Cognos, React, Node.js, or Full-Stack Development.
 
-## 🎭 Random Dev Quote  
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*  
-— *Harold Abelson*  
+</td>
+<td width="50%" valign="top">
 
+### 📂 Featured Projects
+
+| 📁 Repository | 📚 Subject Covers | 💻 Tech Stack |
+|:---|:---|:---|
+| **Capstone-Project** | Biometrics (Face Recognition Attendance System) | `Python` `OpenCV` `YOLOv8` `FaceNet` `FAISS` `TensorFlow` |
+| **financial-sentiment-analysis-lstm** | Natural Language Processing (Financial Sentiment Analysis) | `Python` `TensorFlow` `Keras` `LSTM` `Pandas` |
+| **Liveness-Detection-App** | Biometrics (Face Liveness Detection) | `Kotlin` `Android SDK` `CameraX` `TensorFlow Lite` |
+| **WeatherApp** | Mobile Application Development | `Java` `Android Studio` `REST API` `JSON` |
+| **minedetectorwithAstar** | Artificial Intelligence (A* Pathfinding) | `Java` `A* Algorithm` `OOP` |
+| **AlarmClockSystem-MM** | Microcontroller & Microprocessor | `C++` `Embedded Systems` |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+
+### 📈 GitHub Stats & Activity
+
+<!-- Custom Animated Cards (Themed Local SVGs) -->
+<img src="stats.svg" alt="GitHub Stats" height="185"/>
+<img src="langs.svg" alt="Top Languages" height="185"/>
+
+<br/><br/>
+
+<!-- <img src="trophies.svg" alt="GitHub Trophies" width="95%"/> -->
+
+<!-- <br/><br/> -->
+
+<!-- Real-time GitHub Streak (Custom Blue/Sky-Blue Theme) -->
+<img src="https://streak-stats.demolab.com?user=Nachiket1311&theme=react&hide_border=true&background=0d1117&stroke=3b82f6&ring=38bdf8&fire=38bdf8&currStreakNum=3b82f6&sideNums=e6edf3&sideLabels=e6edf3&dates=3b82f6&currStreakLabel=38bdf8" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Real-time Contribution Graph (Custom Blue/Sky-Blue Theme) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nachiket1311&theme=react&bg_color=0d1117&color=3b82f6&line=38bdf8&point=e6edf3&area=true&hide_border=true" alt="Contribution graph" width="95%"/>
+
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="https://linkedin.com/in/nachiketpalekar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/nachiket_palekar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<br/><br/>
+
+> *"Programs must be written for people to read, and only incidentally for machines to execute."* <br/>
+> — *Harold Abelson*
+
+</div>
